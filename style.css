@@ -31,6 +31,9 @@
 .nav-link:hover {
     color: white;
 }
+ul li{
+    margin-right: 3em;
+}
 li.nav-item:hover {
     border-top: 3px solid white;
 }
